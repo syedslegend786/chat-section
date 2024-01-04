@@ -3,7 +3,6 @@ import './globals.css'
 import Providers from './provider'
 import MainNav from 'components/ui/menubar'
 import { Inter } from 'next/font/google'
-import { Locale, i18n } from '@/i18n.config'
 import LocaleSwitcher from '@/src/components/LocalSwitcher'
 const inter = Inter({ subsets: ['latin'] })
 
